@@ -1,6 +1,6 @@
 this.browsers = {
   firefox: {
-    browserName: "firefox"
+    browserName: "xfirefox"
   },
   chrome: {
     browserName: "chrome"
